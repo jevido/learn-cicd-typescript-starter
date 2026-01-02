@@ -1,4 +1,4 @@
-![alt text goes here](https://github.com/jevido/learn-cicd-typescript-starter/actions/workflows/ci/badge.svg)
+![workflow badge](https://github.com/jevido/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
